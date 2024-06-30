@@ -48,16 +48,17 @@ div{
 }
 
 /* centered text on a div half the width of the page with padding */
-.center-half-padding{
+.center-half-padding1{
     width: 50%;
     text-align: center;
     padding-top: 35vh;
 }
 
 /* centered text on a div half the width of the page without padding */
-.center-half{
+.center-half-padding2{
     width: 50%;
     text-align: center;
+    padding-top: 20vh;
 }
 
 div img{
